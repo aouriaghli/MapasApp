@@ -3,5 +3,5 @@ maps-side-menu {
   top : 20px;
   left : 20px;
   z-index: 999; /* z index con valor alto para que este por encima de todo */
-  width: 180px;
+  /*width: 180px;*/
 }
